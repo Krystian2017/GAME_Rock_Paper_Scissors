@@ -1,0 +1,13 @@
+body {
+  background: #9c9;
+  padding-bottom: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}
+
+#js-resultsTableElement span {
+  font-weight: bold;
+}
